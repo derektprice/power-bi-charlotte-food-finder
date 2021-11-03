@@ -1,4 +1,4 @@
-# power-bi-workshop
+# Charlotte-Food-Finder
 For this project, I created a dashboard that allows users to search for good restaurants in Charlotte based on a specific kind of food they want to eat.
 
 Users can select Zip code and enter the name of a kind of food (ex: "french fries") and will then be shown some of the best restaurants that serve that kind of food for the selected Zip code.
